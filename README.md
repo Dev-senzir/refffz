@@ -14,4 +14,4 @@ Fork Deploy is highly recommended
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
    - [@DeletedUser420](https://t.me/DeletedUser420)
-thank you zedthon
+thank you Yousef
