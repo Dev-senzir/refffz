@@ -12,6 +12,6 @@ Fork Deploy is highly recommended
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## credits
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
+   - [@IC_X_K](https://t.me/IC_X_K)
+   - [@IC_X_K](https://t.me/IC_X_K)
 thank you Yousef
